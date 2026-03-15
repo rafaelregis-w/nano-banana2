@@ -1,0 +1,20 @@
+{
+  "prompt": "A spectacular, hyper-realistic high-end product lifestyle ad photo of a white cloth coffee strainer with a subtle plastic handle. The cloth coffee strainer from the input image (specifically avoiding the one with the bright blue handle that is crossed out) is the hero object. It is resting on a weathered, dark rustic wooden table. Beside it, a freshly brewed, steaming ceramic mug of dark, rich coffee and a few scattered roasted coffee beans. Shot on a professional DSLR, 50mm lens, f/1.8, ISO 100. Warm, golden morning sunlight streaming through a nearby farmhouse window, creating soft, natural backlighting that highlights the woven texture of the white cotton cloth filter. Microscopic detail on the fabric weave and the wood grain. Do not beautify or alter the product's fundamental shape from the reference. The fabric must look thick, authentic, and slightly damp from use, exuding a cozy, artisanal morning coffee atmosphere.",
+  "negative_prompt": "blue handle, red X, anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, mirror selfies, reflections, beautification filters, skin smoothing, plastic texture, airbrushed texture, stylized realism, editorial fashion proportions, CGI, 3d render, illustration, painterly, amateur photography",
+  "image_input": [
+    "http://tmpfiles.org/dl/29080462/media__1773601464624.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "jpg",
+    "aspect_ratio": "4:5"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "rustic artisanal coffee advertising",
+    "lighting": "warm golden morning sunlight",
+    "camera_angle": "eye-level, slightly downward angle",
+    "depth_of_field": "shallow depth of field, blurred background",
+    "quality": "high detail, physically accurate lighting"
+  }
+}

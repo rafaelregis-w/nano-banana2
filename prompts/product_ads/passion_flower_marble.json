@@ -1,0 +1,20 @@
+{
+  "prompt": "A breathtaking, minimalist, modern e-commerce flatlay lifestyle ad photo. The exact white plastic Nutricost Passion Flower Extract bottle from the input image is faithfully reproduced as the hero object. It is standing perfectly upright on a pristine, polished white marble vanity table. Next to it is a crystal clear glass of water and a folded, plush white cotton towel. Shot on a Hasselblad medium format camera, 100mm lens, f/8, ISO 50. High-contrast, dramatic side lighting from a nearby window, creating sharp, architectural shadow lines crossing the marble and highlighting the cylindrical volume of the bottle. Flawless commercial product photography with microscopic detail on the marble veins and the subtle matte texture of the bottle plastic. Do not beautify or alter the exact label text and proportions from the reference. The text 'nutricost', 'Passion Flower Extract', '1,500MG', '120 Capsules' must be perfectly legible and structurally accurate.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, mirror selfies, reflections, beautification filters, skin smoothing, plastic texture, airbrushed texture, stylized realism, editorial fashion proportions, CGI, 3d render, illustration, painterly, amateur photography, noisy, grainy",
+  "image_input": [
+    "http://tmpfiles.org/dl/29070657/uploaded_media_1773595788838.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "jpg",
+    "aspect_ratio": "4:5"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "modern minimalist e-commerce advertising",
+    "lighting": "sharp window sunlight, architectural shadows",
+    "camera_angle": "slightly high angle looking down at the bottle",
+    "depth_of_field": "deep depth of field",
+    "quality": "extreme high detail, clean digital"
+  }
+}

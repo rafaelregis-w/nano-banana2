@@ -1,0 +1,20 @@
+{
+  "prompt": "A breathtaking, minimalist, modern specialty coffee flatlay lifestyle ad photo. The exact white cloth coffee strainer from the input image (ignoring the bright blue-handled one that is crossed out with a red X) is faithfully reproduced as the hero object. It features a clean white fabric filter and a simple dark or light-grey handle. It is resting gracefully on a pristine, polished white quartz countertop in a high-end minimalist cafe. Next to it is a sleek matte black gooseneck kettle and a pristine glass carafe. Shot on a Hasselblad medium format camera, 85mm lens, f/8, ISO 50. High-contrast, dramatic but diffused studio lighting, creating soft, architectural shadow lines on the quartz and perfectly illuminating the pure white fabric of the strainer. Flawless commercial product photography with microscopic detail on the cloth's fine woven mesh texture. Do not beautify or alter the exact product shape from the reference. The image is hyper-clean, professional, and visually striking.",
+  "negative_prompt": "blue handle, red X mark, anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, mirror selfies, reflections, beautification filters, skin smoothing, plastic texture, airbrushed texture, stylized realism, editorial fashion proportions, CGI, 3d render, illustration, painterly, amateur photography, noisy, grainy",
+  "image_input": [
+    "http://tmpfiles.org/dl/29080462/media__1773601464624.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "jpg",
+    "aspect_ratio": "4:5"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "clean modern minimalist coffee e-commerce",
+    "lighting": "diffused studio light, soft architectural shadows",
+    "camera_angle": "slightly high angle looking down",
+    "depth_of_field": "deep depth of field",
+    "quality": "extreme high detail, clean digital"
+  }
+}

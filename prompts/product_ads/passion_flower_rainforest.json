@@ -1,0 +1,20 @@
+{
+  "prompt": "A spectacular, hyper-realistic high-end product lifestyle ad photo of a Nutricost Passion Flower Extract bottle. The exact white plastic bottle with dark blue cap from the input image is faithfully reproduced. It rests on a glistening, dark wet slate stone. The background is an overgrown, vibrant rainforest setting with real, dew-covered blooming passion flowers and thick green vines. Shot on a professional DSLR, 85mm lens, f/1.8, ISO 100. Brilliant, ethereal morning sunlight filtering softly through the forest canopy, creating natural dappled backlighting and subtle subsurface scattering through the flower petals. Microscopic detail on the water droplets and the textured surface of the bottle. Do not beautify or alter the exact label text and proportions from the reference. The text 'nutricost', 'Passion Flower Extract', '1,500MG', '120 Capsules' must be perfectly legible and structurally accurate.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, mirror selfies, reflections, beautification filters, skin smoothing, plastic texture, airbrushed texture, stylized realism, editorial fashion proportions, CGI, 3d render, illustration, painterly, amateur photography",
+  "image_input": [
+    "http://tmpfiles.org/dl/29070657/uploaded_media_1773595788838.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "jpg",
+    "aspect_ratio": "4:5"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "documentary realism, premium product photography",
+    "lighting": "natural dappled morning sunlight in a forest",
+    "camera_angle": "eye-level, slightly upward angle",
+    "depth_of_field": "shallow depth of field, blurred background",
+    "quality": "high detail, physically accurate lighting"
+  }
+}
