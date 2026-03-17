@@ -1,0 +1,20 @@
+{
+  "prompt": "Hyper-realistic photograph of the same woman from the reference image, seen from a high angle looking down. She is standing on lush green grass in a natural outdoor setting. Her arms are fully extended wide open to both sides, stretched horizontally at shoulder height, like a bird embracing the sky and nature around her. Her palms face upward, fingers gently relaxed. Her head is tilted slightly back, eyes closed in deep meditation, with a peaceful, transcendent expression of pure spiritual connection with nature. She is centered in herself, radiating inner peace and sacred stillness. Same exact white pleated turban with the intricate golden braided band featuring cowrie shells woven into the pattern and the central oval turquoise-green cabochon gemstone at the forehead. Same long cowrie shell necklace with natural cream-colored shells draped from neck to chest. Same white cowrie shell bracelet on the right wrist. Same silver rings on fingers. Same white short-sleeve blouse with delicate white-on-white lace embroidery pattern. Same white clothing below. Her body language conveys total surrender to nature and the divine — arms wide as if absorbing the energy of the earth, sky, trees, and wind. Natural mature skin with visible pores, natural slight redness, fine lines, no retouching. Golden hour natural sunlight from the right side, warm and luminous, creating a gentle golden halo effect on the white turban and fabric, with soft warm highlights on her skin and delicate shadows. The green grass background is softly blurred with beautiful circular bokeh. Shot on professional DSLR, 85mm lens, f/2.0, ISO 200. Documentary realism. Shallow depth of field. Do not beautify or alter facial features. Do not smooth skin. Reproduce the exact same person, outfit, turban, jewelry from the reference. This is a sacred moment of communion with nature during the Benção Sagrada do Cantuá — a woman admiring creation with arms wide open, fully centered in meditation.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, beautification filters, skin smoothing, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, makeup enhancement, skin softening, face reshaping, eye enlargement, lip enhancement, overexposed, underexposed, blurry face, extra fingers, deformed hands, missing fingers, fused fingers, different clothing, different turban, different jewelry, different necklace, different person, different face, side view, front view, level angle, studio lighting, artificial lighting, flash photography, ring light, different background, indoor, different skin tone, eyes open, hands together, prayer pose, arms down, arms at sides",
+  "image_input": [
+    "http://tmpfiles.org/dl/29279971/img_0335.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "documentary realism, spiritual photography, sacred meditation in nature",
+    "lighting": "natural golden hour sunlight from the right, warm and luminous",
+    "camera_angle": "high angle bird's-eye, directly above subject looking down",
+    "depth_of_field": "shallow depth of field, f/2.0, creamy bokeh background",
+    "quality": "high detail, unretouched skin, visible pores, natural imperfections, photographic precision"
+  }
+}

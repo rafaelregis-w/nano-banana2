@@ -1,0 +1,22 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 18mm ultra-wide lens, f/5.6, ISO 250. The END of a sacred Brazilian benzeção ceremony. SAME EXACT ENVIRONMENT, SAME EXACT CAMERA POSITION, SAME EXACT FRAMING as the first reference image — the same corridor of tall palm tree trunks, the same grassy clearing, the same tropical plants on the sides, the same golden hour light from behind. Nothing has changed in the environment — only the pose of the two women has changed because the blessing is now complete. Ultra-wide cinematic 16:9 shot from 10 meters distance. Gislaine stands behind the same seated woman in the exact same spot. Her left hand rests lovingly on top of the woman's head in final benediction. Her right hand holds the used herb bundle down at her side — leaves slightly wilted. Gislaine has a warm loving fulfilled smile looking down at the woman. She wears the same colorful crocheted rainbow poncho with V-shaped stripes and tassels, same white turban with golden braided band and turquoise gemstone, cowrie bracelet. Same face as in references. The SAME RECEIVING WOMAN from the first reference image — same straight dark brown hair, same oval face, same white cotton dress, barefoot. She sits cross-legged in the same spot. Head slightly raised, eyes closed, deep peaceful grateful smile, hands in namaste at heart center. Green arruda and rosemary leaf fragments are scattered abundantly on her — on her hair, on both shoulders, across her white dress, on her lap, and scattered on the grass around her. The fallen leaves on her are evidence the blessing happened. Same palm tree corridor, same tropical plants, same grass, same golden hour backlight, same shadows. Everything identical except the poses. No effects. Raw documentary realism.",
+  "negative_prompt": "close-up, medium shot, tight crop, cropped bodies, digital effects, particles, glowing, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, different woman, different face, different location, different environment, different trees, different background, teleporting, smoke, fog, extra fingers, deformed hands, herbs raised high, no leaves on person, clean person, sad, angry",
+  "image_input": [
+    "http://tmpfiles.org/dl/29297397/bencao_inicio_v4.png",
+    "http://tmpfiles.org/dl/29296936/img-20240824-wa00211.jpg",
+    "http://tmpfiles.org/dl/29296940/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, ultra-wide shot, same environment as first image, video continuity",
+    "lighting": "same golden hour backlighting as first image, same shadows, same atmosphere",
+    "camera_angle": "same eye-level, same 10 meters distance, same 18mm, same position as first image",
+    "depth_of_field": "f/5.6, deep focus, everything sharp, same as first image",
+    "quality": "ultra-realistic, cinematic 16:9, leaves on person, environment must match first image exactly"
+  }
+}

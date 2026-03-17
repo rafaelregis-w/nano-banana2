@@ -1,0 +1,21 @@
+{
+  "prompt": "Hyper-realistic photograph of the same exact woman from the reference image — a powerful spiritual healer, a sacred shaman channeling divine energy in nature. Reproduce her face with absolute photographic precision: her exact facial structure, her natural mature skin with visible pores, fine lines, natural slight redness, her exact eye shape, eyebrow shape, her exact skin tone. She wears the same exact ceremonial outfit from the reference: a white oversized poncho-style tunic with prominent V-shaped decorative panels of black long fringe cascading from the shoulders down the chest, detailed white-and-blue geometric stitching bordering the fringe panels, purple and dark fringe along the side edges of the poncho, and a vivid red-orange underlayer visible at the sleeves and neckline beneath the white poncho. Same white wrapped turban on her head without jeweled band. Same chunky cowrie shell bracelet on her wrist. Same rings on her fingers. POSE: She stands in a sacred grove of trees, her arms are raised high and wide toward the sky in a powerful V-shape, palms open facing upward, fingers spread naturally — as if pulling sacred energy down from the cosmos. Her head is tilted slightly back, eyes gently closed, mouth slightly open in a whisper of invocation, her face radiating raw spiritual power, ecstasy, and deep communion with the unseen forces of nature. She is a conduit between earth and sky, channeling the ancient energy of the forest, the wind moving through the fringe of her ceremonial garment. The environment is the same natural forest grove from the reference — eucalyptus or similar tall trees with smooth trunks, dappled natural light filtering through the canopy, patches of green grass and earth on the ground. Natural afternoon sunlight creating dramatic rays of light through the tree branches, illuminating her white garments with an almost ethereal golden glow. Shot on professional DSLR, 85mm lens, f/2.0, ISO 200. Camera angle: slightly low angle looking up at her, making her appear majestic and powerful against the trees and sky. Medium depth of field, face tack-sharp, background trees softly blurred. Documentary realism. Unretouched skin. No beauty filters. No skin smoothing. This is the opening frame of a sacred shamanic blessing ceremony — the Benção Sagrada do Cantuá — capturing the raw, untamed spiritual power of a healer invoking the forces of nature.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, beautification filters, skin smoothing, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, makeup enhancement, skin softening, face reshaping, eye enlargement, lip enhancement, overexposed, underexposed, blurry face, extra fingers, deformed hands, missing fingers, fused fingers, different clothing, different outfit, different turban, different person, different face, studio lighting, artificial lighting, flash photography, ring light, indoor, different skin tone, younger face, male, child, hands together, prayer pose, namaste, arms down, arms at sides, jewelry not in reference, necklace, high angle, bird eye view, looking down",
+  "image_input": [
+    "http://tmpfiles.org/dl/29282164/xama.jpg",
+    "http://tmpfiles.org/dl/29281067/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "documentary realism, spiritual photography, sacred shamanic ceremony, dramatic natural light",
+    "lighting": "natural afternoon sunlight filtering through trees, dappled light, golden rays through canopy",
+    "camera_angle": "slightly low angle looking up, majestic perspective",
+    "depth_of_field": "medium depth of field, f/2.0, face tack-sharp, background softly blurred",
+    "quality": "ultra high detail, unretouched skin, visible pores, natural imperfections, tack-sharp facial detail"
+  }
+}

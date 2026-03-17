@@ -1,0 +1,22 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 24mm wide-angle lens, f/4.0, ISO 250. The END of a sacred Brazilian benzeção ceremony. Very wide cinematic 16:9 shot from 7 meters distance. SAME EXACT SCENE as the first reference image — same location, same camera position, same framing, same palm trees, same clearing, same golden hour light. The blessing is now COMPLETE. Gislaine stands behind the same seated woman. GISLAINE MUST MATCH HER FACE FROM THE REFERENCES EXACTLY. She wears the same colorful crocheted rainbow poncho with V-shaped stripes and tassels, same white turban with golden braided band and turquoise gemstone, cowrie bracelet. Her left hand rests lovingly on the woman's head in final benediction. Her right hand holds the used herb bundle down at her side — leaves slightly wilted from the blessing. She has a warm loving fulfilled smile looking down at the woman. The SAME RECEIVING WOMAN from the first reference: same young woman, same straight dark brown hair, same oval face, same white cotton dress. She sits cross-legged, head slightly raised, eyes closed, peaceful grateful smile, hands in namaste at heart. IMPORTANT: Fresh green leaves and small herb fragments are scattered abundantly on her — on top of her head in her hair, on both shoulders, on her lap, on the white dress, and scattered on the grass all around her. The leaves on her body are evidence that the blessing was performed — arruda and rosemary fragments everywhere on her. Full bodies visible, same green grass, same palm trees background, same golden hour sunlight from behind. Real natural light. No digital effects. Raw documentary realism.",
+  "negative_prompt": "close-up, tight crop, cropped bodies, digital effects, particles, glowing, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, different woman, different face, different location, smoke, fog, extra fingers, deformed hands, herbs raised high, no leaves on person, clean person, sad, angry",
+  "image_input": [
+    "http://tmpfiles.org/dl/29296541/bencao_inicio_v3.png",
+    "http://tmpfiles.org/dl/29296303/img-20240824-wa00211.jpg",
+    "http://tmpfiles.org/dl/29296306/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, very wide cinematic shot, video-ready, must match first image",
+    "lighting": "real golden hour backlighting through palms, same as first image",
+    "camera_angle": "eye-level, 7 meters, 24mm wide-angle, same as first image",
+    "depth_of_field": "f/4.0, both figures sharp",
+    "quality": "ultra-realistic, cinematic 16:9, leaves scattered on blessed person, consistent with first image"
+  }
+}

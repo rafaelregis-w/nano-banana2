@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 18mm ultra-wide lens, f/5.6, ISO 250. The BEGINNING of a sacred Brazilian benzeção ceremony. Ultra-wide cinematic 16:9 establishing shot from approximately 10 meters distance. The two women are small in the frame, occupying about 25 percent of the frame height, centered in a vast lush tropical garden that dominates the image. The environment is the star — a magnificent natural cathedral of tall palm trees, tropical plants, ferns and green foliage surrounding a small grassy clearing where the ceremony takes place. Gislaine the healer stands behind a seated woman in the center of this natural temple. Gislaine holds fresh arruda and rosemary herbs raised high with her right hand, left hand on heart, eyes closed in opening prayer. She wears the exact same colorful crocheted rainbow poncho from the reference with V-shaped stripes pink green blue yellow red purple white with tassels, same white turban with golden braided band and turquoise gemstone, cowrie bracelet. Reproduce her face exactly from the reference. The RECEIVING WOMAN: young Brazilian woman about 30, straight dark brown hair parted in middle past shoulders, light olive skin, white cotton dress, barefoot, sitting cross-legged, eyes closed, palms up on knees. The herbs have not touched her yet. The wide view reveals the full grandeur of the setting — rows of tall palm tree trunks receding into the background, dense tropical undergrowth on all sides, a carpet of green grass in the clearing, golden hour sunlight streaming through the canopy from behind creating long natural shadows on the grass and warm backlighting on both figures. Real natural imperfect environment — fallen palm fronds on ground, uneven grass, natural debris. No effects. Raw documentary realism.",
+  "negative_prompt": "close-up, medium shot, tight crop, cropped bodies, figures too large, digital effects, particles, glowing, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, smoke, fog, extra fingers, deformed hands, different face on healer",
+  "image_input": [
+    "http://tmpfiles.org/dl/29296936/img-20240824-wa00211.jpg",
+    "http://tmpfiles.org/dl/29296940/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, ultra-wide establishing shot, cinematic video-ready",
+    "lighting": "real golden hour backlighting through palms, long natural shadows",
+    "camera_angle": "eye-level, 10 meters distance, 18mm ultra-wide, vast environment",
+    "depth_of_field": "f/5.6, deep focus, everything sharp",
+    "quality": "ultra-realistic, cinematic 16:9, environment dominates, figures small and centered"
+  }
+}

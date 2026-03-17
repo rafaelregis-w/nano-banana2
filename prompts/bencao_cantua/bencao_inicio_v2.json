@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 28mm wide-angle lens, f/3.5, ISO 320. The very BEGINNING of a sacred Brazilian benzeção ceremony. Very wide full-body shot from approximately 5 meters distance showing the entire scene with lots of environment visible. Tropical garden with tall palm trees at golden hour. The spiritual healer Gislaine stands facing a seated woman. Gislaine holds a thick fresh bundle of arruda and rosemary herbs raised HIGH above the seated woman's head with her right hand, about to begin the blessing. Her left hand is placed over her own heart. Her eyes are closed, lips slightly parted in opening prayer. She wears the same colorful crocheted rainbow poncho with V-shaped stripes in pink green blue yellow red purple white with crocheted tassels, same white turban with golden band and turquoise stone, same cowrie bracelet. The RECEIVING WOMAN: a young Brazilian woman approximately 30 years old with straight medium-length dark brown hair parted in the middle falling just past her shoulders, light olive skin, slim build. She wears a simple long white cotton dress with thin straps, barefoot. She sits cross-legged on the grass with her back straight, eyes closed, hands resting on her knees palms facing upward. The herbs have NOT touched her yet. Real golden hour sunlight from behind through palm trees. Natural warm backlighting. Real grass with natural imperfections. No digital effects, no particles, no auras. Raw documentary realism.",
+  "negative_prompt": "digital effects, particles, glowing aura, magical effects, sparkles, CGI, illustration, cartoon, anime, beauty filter, AI look, skin smoothing, plastic skin, studio lighting, artificial lighting, flash, indoor, close-up, tight crop, headshot, cropped bodies, extra fingers, deformed hands, different clothing, different poncho, blonde hair, curly hair, red hair, short hair, old woman receiving, child, smoke, fog",
+  "image_input": [
+    "http://tmpfiles.org/dl/29294776/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29294780/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, documentary realism, very wide environmental shot",
+    "lighting": "real golden hour backlighting, natural crepuscular rays",
+    "camera_angle": "eye-level, 5 meters distance, 28mm wide-angle, full bodies with lots of environment",
+    "depth_of_field": "f/3.5, both figures sharp, natural background blur",
+    "quality": "raw photograph, ultra-realistic, no digital effects"
+  }
+}

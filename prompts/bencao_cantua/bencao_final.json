@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 35mm lens, f/2.8, ISO 320. The very END of a sacred Brazilian benzeção ceremony — the blessing is now complete. Wide full-body shot in a tropical garden with palm trees at golden hour. The spiritual healer Gislaine has just finished the blessing. She stands behind the seated woman, her right hand holding the used herb bundle down at her side — the arruda and rosemary leaves now slightly wilted and bent from the sweeping motions of the blessing, some leaves fallen on the ground around them. Her left hand rests gently on top of the seated woman's head in a final benediction — a last touch of love and energy before letting go. Gislaine's expression is one of peaceful fulfillment and tender love — a warm gentle satisfied smile, eyes soft and open, looking down at the woman with maternal pride, as if saying silently 'it is done, you are healed.' She wears the same colorful crocheted rainbow poncho with V-shaped stripes and tassels, same white turban with golden band and turquoise stone, same cowrie bracelet. The seated woman is visibly moved and transformed by the experience. She sits cross-legged on the grass in her white dress, barefoot. Her head is slightly raised now — chin lifting gently upward, eyes still closed, a deep peaceful grateful smile spreading across her face. A single tear of gratitude and release rolls down her cheek. Her hands are pressed together in a grateful namaste at her heart center — thanking the healer. A few fallen green leaves and small herb fragments are scattered naturally on her shoulders and on the grass around her — evidence that the blessing has been performed. The energy between them is one of completion, gratitude, love, and spiritual transformation. Real golden hour sunlight from behind through palm trees. Natural warm light. Real imperfect grass with scattered herb leaves on the ground. No digital effects, no particles, no auras. Raw documentary realism. The sacred completion of the Benção Sagrada do Cantuá.",
+  "negative_prompt": "digital effects, particles, glowing aura, magical effects, sparkles, CGI, 3d render, illustration, cartoon, anime, beauty filter, AI look, skin smoothing, airbrushed, plastic skin, studio lighting, artificial lighting, flash, indoor, close-up, tight crop, headshot, cropped bodies, extra fingers, deformed hands, different clothing, different person, smoke, fog, herbs raised high, beginning of ritual, angry, sad healer, frowning healer",
+  "image_input": [
+    "http://tmpfiles.org/dl/29294098/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29294103/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, documentary realism, candid sacred ceremony, end of ritual, emotional completion",
+    "lighting": "real golden hour backlighting, natural warm light, no artificial effects",
+    "camera_angle": "eye-level, 3 meters distance, 35mm wide shot, full bodies",
+    "depth_of_field": "f/2.8, both figures sharp, natural background blur",
+    "quality": "raw photograph, visible skin pores, real fabric texture, no digital effects, emotionally powerful"
+  }
+}

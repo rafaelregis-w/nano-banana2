@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 24mm wide-angle lens, f/4.0, ISO 250. The BEGINNING of a sacred Brazilian benzeção ceremony. Very wide cinematic 16:9 shot from 7 meters distance. The healer Gislaine stands behind a seated woman in a clearing among tall palm trees at golden hour. GISLAINE MUST MATCH THE REFERENCE IMAGES EXACTLY — reproduce her exact face: her specific round face shape, her exact eyes, her exact nose, her natural skin with visible pores, her exact smile. She wears the exact same colorful crocheted rainbow poncho from the reference with V-shaped stripes in pink green blue yellow red purple white with multicolored crocheted tassels at bottom. Same white turban with golden braided band and turquoise-green oval gemstone centered on forehead. Same cowrie shell bracelet. Gislaine holds fresh green arruda and rosemary herbs raised HIGH above the seated woman's head with right hand, left hand placed over her own heart, eyes closed in sacred opening prayer. The RECEIVING WOMAN: young Brazilian woman about 30, straight dark brown hair parted in middle past shoulders, light olive skin, oval face, slim, wearing a simple long white cotton dress thin straps, barefoot on grass, sitting cross-legged, eyes closed, hands on knees palms up, waiting. The herbs have NOT touched her yet. Full bodies visible, green grass foreground, palm trees and tropical plants background, golden hour sunlight filtering through canopy from behind. Real natural light. No digital effects. Raw documentary realism.",
+  "negative_prompt": "close-up, tight crop, cropped bodies, digital effects, particles, glowing, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, smoke, fog, extra fingers, deformed hands, different face on healer, different poncho",
+  "image_input": [
+    "http://tmpfiles.org/dl/29296303/img-20240824-wa00211.jpg",
+    "http://tmpfiles.org/dl/29296306/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, very wide cinematic shot, video-ready",
+    "lighting": "real golden hour backlighting through palms",
+    "camera_angle": "eye-level, 7 meters, 24mm wide-angle, cinematic",
+    "depth_of_field": "f/4.0, both figures sharp",
+    "quality": "ultra-realistic, cinematic 16:9, exact face match with reference"
+  }
+}

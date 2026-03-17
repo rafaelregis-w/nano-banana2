@@ -1,0 +1,22 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 24mm wide-angle lens, f/4.0, ISO 250. The END of a sacred Brazilian benzeção ceremony. Very wide cinematic 16:9 environmental shot from approximately 7 meters distance. Same exact scene, same exact location, same exact framing, same exact camera position as the first reference image. The blessing is now complete. Gislaine stands behind the SAME seated woman from the first reference image. Her right hand holds the used wilted herb bundle down at her side, left hand rests gently on the woman's head in final benediction. Gislaine has a warm loving fulfilled smile. She wears the same colorful crocheted rainbow poncho with V-shaped stripes, same white turban with golden band and turquoise stone, cowrie bracelet. The SAME EXACT RECEIVING WOMAN from the first reference image — same young Brazilian woman 30 years old, same straight medium-length dark brown hair parted in middle past shoulders, same light olive skin, same oval face, same slim build, same simple long white cotton dress thin straps, barefoot. She sits cross-legged in the same position. Her head slightly raised, eyes closed, deep peaceful grateful smile, hands pressed together in namaste at heart center. Small green leaf fragments on her shoulders and grass around her. Same green grass foreground, same tall palm trees and tropical plants background, same golden hour sunlight from behind. Real natural light, real grass with fallen herb leaves. No effects. Raw documentary realism for video production. This image must match the first reference image perfectly in terms of location, framing, lighting, and especially the identity of both women.",
+  "negative_prompt": "close-up, medium shot, tight crop, cropped bodies, digital effects, particles, glowing, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, different woman, different face, different location, different framing, smoke, fog, extra fingers, deformed hands, herbs raised high, sad, angry",
+  "image_input": [
+    "http://tmpfiles.org/dl/29295789/bencao_inicio_v2.png",
+    "http://tmpfiles.org/dl/29295330/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29295331/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, very wide cinematic shot, video-ready, must match first image",
+    "lighting": "real golden hour backlighting through palms, same as first image",
+    "camera_angle": "eye-level, 7 meters, 24mm wide-angle, same position as first image",
+    "depth_of_field": "f/4.0, both figures sharp",
+    "quality": "ultra-realistic, cinematic 16:9, consistent with first image, same women"
+  }
+}

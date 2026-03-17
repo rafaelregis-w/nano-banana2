@@ -1,0 +1,21 @@
+{
+  "prompt": "Ultra-realistic wide full-body photograph of a sacred blessing ceremony in a tropical garden. Full-body shot showing both women from head to bare feet on green grass. The shaman healer Gislaine stands tall behind a seated woman, performing a traditional Brazilian benzeção. Gislaine is the same woman from the reference — same face, same colorful handmade crocheted rainbow poncho with V-shaped stripes in pink, green, blue, yellow, red, purple, white with colorful tassels at bottom, same white turban with golden band and turquoise gemstone, same cowrie shell bracelet. Her full poncho is visible showing its complete magnificent size. She holds fresh green sacred herbs — arruda and rosemary — pressing them gently on the seated woman's head while her other hand rests on the woman's crown channeling energy. Gislaine has a warm loving peaceful smile, eyes half-closed in spiritual connection, radiating pure love and sacred joy as she gives healing energy. The seated woman wears a simple white dress, barefoot, head bowed, eyes closed, serene peaceful smile, hands open palms up on her lap in total surrender. Spectacular golden god rays burst through the palm tree canopy above, full-length beams of divine light from sky to ground illuminating both figures. Golden luminous particles float throughout the air. A subtle golden-green glow radiates from where the herbs touch the person's head. Thin white sage smoke spirals upward through the light beams. Lush tropical palms and green plants surround them like a natural cathedral. Shot on 35mm lens, f/2.8, ISO 200. Camera 3 meters away at eye level. Both figures sharp, background in warm golden bokeh. Documentary realism. The Benção Sagrada do Cantuá.",
+  "negative_prompt": "close-up, tight crop, headshot, chest up only, cropped bodies, no legs, plastic skin, CGI, 3d render, illustration, cartoon, anime, beauty filter, AI look, studio lighting, artificial lighting, indoor, sad expression, frowning, angry, grumpy, suffering, dark mood, cold lighting, blue tones, dead leaves, wilted plants, no energy, flat lighting, extra fingers, deformed hands, different clothing, different person, different face",
+  "image_input": [
+    "http://tmpfiles.org/dl/29284717/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29281067/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "ultra-realistic environmental documentary photography, sacred ceremony, wide full-body shot, divine golden light",
+    "lighting": "spectacular god rays through palm canopy, golden particles, sage smoke in light beams",
+    "camera_angle": "eye-level, 3 meters distance, 35mm wide shot, full bodies head to toe",
+    "depth_of_field": "medium depth of field, f/2.8, both figures sharp, warm golden bokeh background",
+    "quality": "extremely ultra-realistic, full-body wide shot, divine energy, loving atmosphere"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "prompt": "A breathtakingly enchanting, hyper-realistic photograph of a beautiful and radiant spiritual healer — a sacred shaman queen — standing in a mystical forest grove, channeling divine energy from the cosmos. She is the same exact woman from the reference image. Reproduce her face with precision but in the most flattering, luminous natural light: her skin glowing with an inner radiance, warm golden light kissing her cheeks and forehead, creating an almost angelic aura. Her expression is one of pure spiritual ecstasy — eyes closed, head tilted back toward the heavens, lips slightly parted in a sacred whisper, face radiating transcendent beauty, peace, and divine power. She wears the same exact ceremonial outfit: a flowing white oversized poncho-style tunic with dramatic V-shaped panels of long black fringe cascading elegantly from the shoulders down the chest, intricate white-and-blue geometric stitching bordering the fringe, purple and dark fringe flowing along the side edges of the poncho swaying with her movement, and a vivid red-orange underlayer visible at the sleeves. Same white wrapped turban. Same cowrie shell bracelet. Same rings. POSE: Her arms are raised high and wide toward the sky, palms open, fingers gracefully spread — pulling sacred golden energy down from the universe. ENERGY AND ATMOSPHERE: The scene is bathed in magical golden hour light. Dramatic god rays — thick, visible beams of warm golden sunlight — pierce through the forest canopy and converge around her body, as if the sun itself is blessing her. Tiny golden particles of light, like sacred dust or pollen, float and shimmer in the air around her illuminated by the sunbeams, creating a visible field of luminous energy surrounding her. The light catches the black fringe of her garment making it shimmer. Her white clothing glows ethereally in the backlight. The forest behind her is a cathedral of tall trees with smooth trunks, their canopy creating a natural sacred temple. Lens flare from the sun adds to the divine, enchanting atmosphere. The overall feeling is of witnessing something sacred and otherworldly — a moment where the veil between the physical and spiritual worlds is thin. Shot on professional DSLR, 85mm lens, f/1.8, ISO 160. Slightly low angle looking up at her, making her appear majestic, powerful, and enchanting against the golden-lit forest. Shallow depth of field with her face razor-sharp and the forest melting into dreamy golden bokeh. The image should take the viewer's breath away — this is the most beautiful, powerful, and spiritually charged moment of the Benção Sagrada do Cantuá.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, overexposed, underexposed, blurry face, extra fingers, deformed hands, missing fingers, fused fingers, different clothing, different outfit, different turban, different person, different face, studio lighting, artificial lighting, flash photography, ring light, indoor, different skin tone, male, child, hands together, prayer pose, namaste, arms down, arms at sides, dark mood, cold lighting, blue tones, harsh shadows on face, unflattering angle, grotesque, horror, scary, ugly lighting",
+  "image_input": [
+    "http://tmpfiles.org/dl/29282164/xama.jpg",
+    "http://tmpfiles.org/dl/29281067/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "enchanting spiritual photography, sacred ceremony, ethereal golden light, divine atmosphere, breathtaking beauty",
+    "lighting": "dramatic golden hour god rays through forest canopy, backlit, visible light beams, golden particles in air, divine luminous energy",
+    "camera_angle": "slightly low angle looking up, majestic and enchanting perspective",
+    "depth_of_field": "shallow depth of field, f/1.8, face razor-sharp, dreamy golden bokeh background",
+    "quality": "ultra high detail, luminous radiant skin, golden glow, tack-sharp, enchanting, breathtaking"
+  }
+}

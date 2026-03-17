@@ -1,0 +1,21 @@
+{
+  "prompt": "Hyper-realistic photograph with tack-sharp facial detail. Same exact woman from the reference image — reproduce her face with photographic precision: her exact facial structure, skin tone, natural skin texture with visible pores on cheeks and forehead, natural fine lines around the eyes and mouth, subtle natural redness on cheeks, her exact warm gentle smile showing slight teeth, her exact eyebrow shape and thickness, her exact eye color and shape. Same white pleated turban with the ornate golden braided band featuring small cowrie shells woven into the metalwork pattern and a prominent oval turquoise-green cabochon gemstone centered at the forehead. Same long cowrie shell necklace with large natural cream-colored cowrie shells strung together, draped from neck hanging down the chest. Same chunky white cowrie shell bracelet on the right wrist made of multiple rows of small cowrie shells. Same silver rings on her fingers. Same white short-sleeve peasant-style blouse with delicate white floral lace embroidery throughout the fabric, slightly gathered at the neckline. Her arms are fully extended wide open to both sides, stretched out horizontally at shoulder height, palms facing upward toward the sky, fingers naturally relaxed — a sacred gesture of receiving the energy of nature, feeling the wind, the earth beneath her feet, the divine presence all around her. Her eyes are gently closed in deep meditation, her face radiating inner peace, serenity, and spiritual transcendence. Her head is slightly tilted back. She stands on lush green grass. Camera angle: high angle from directly above, approximately 1.5 meters over her head, looking straight down — bird's-eye perspective identical to the reference. Golden hour natural sunlight coming from the right side, warm and luminous, creating soft golden highlights on the white turban fabric, gentle warm glow on her skin, and delicate shadows under the chin. The green grass background is beautifully blurred with creamy circular bokeh. Shot on professional DSLR, 85mm lens, f/1.8, ISO 160. Shallow depth of field with razor-sharp focus on her face and upper body. Documentary realism. Unretouched skin. No beauty filters. No skin smoothing. This is a sacred moment of the Benção Sagrada do Cantuá — a spiritual healer communing with nature, arms wide open absorbing divine energy before bringing her hands together in prayer.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion, lens compression not in reference, cropping that removes volume, depth flattening, beautification filters, skin smoothing, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, makeup enhancement, skin softening, face reshaping, eye enlargement, lip enhancement, overexposed, underexposed, blurry face, soft focus on face, extra fingers, deformed hands, missing fingers, fused fingers, different clothing, different turban, different jewelry, different necklace, different person, different face, studio lighting, artificial lighting, flash photography, ring light, different background, indoor, different skin tone, younger face, male, child, hands together, prayer pose, arms down, arms crossed, hands on chest",
+  "image_input": [
+    "http://tmpfiles.org/dl/29281067/img_0331.jpeg.jpg",
+    "http://tmpfiles.org/dl/29279971/img_0335.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "documentary realism, spiritual photography, sacred ceremony, tack-sharp facial detail",
+    "lighting": "natural golden hour sunlight from the right, warm and luminous, soft highlights",
+    "camera_angle": "high angle bird's-eye, directly above subject looking down",
+    "depth_of_field": "shallow depth of field, f/1.8, creamy bokeh, razor-sharp face",
+    "quality": "ultra high detail, unretouched skin, visible pores, natural imperfections, photographic precision, tack-sharp"
+  }
+}

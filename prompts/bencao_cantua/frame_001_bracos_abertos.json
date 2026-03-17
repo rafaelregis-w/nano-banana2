@@ -1,0 +1,20 @@
+{
+  "prompt": "Hyper-realistic photograph, identical in every way to the reference image except for arm position. Same woman, same face, same exact white pleated turban with the intricate golden braided band featuring cowrie shells woven into the pattern and a central oval turquoise-green cabochon gemstone at the forehead. Same long cowrie shell necklace with natural cream-colored shells draped from neck to chest. Same white cowrie shell bracelet on the right wrist. Same silver rings on fingers. Same white short-sleeve blouse with delicate white-on-white lace embroidery pattern on the fabric. Same white clothing below. The ONLY change: her arms are wide open, fully extended horizontally to both sides at shoulder height, palms facing upward toward the sky, fingers naturally relaxed and slightly spread, in a gesture of sacred spiritual openness — as if receiving divine energy from above before bringing her hands together in prayer. She is looking directly up at the camera with the same warm, serene, gentle spiritual smile as in the reference. Her face is tilted slightly upward. Natural mature skin with visible pores on forehead and cheeks, natural slight redness around the nose, real skin texture with fine lines, no retouching whatsoever. Same exact camera angle: shot from directly above looking straight down at her, high-angle bird's-eye perspective, approximately 1.5 meters above her head. Same lush green grass background, softly blurred with beautiful bokeh circles. Golden hour natural sunlight from the right side, warm and soft, creating gentle warm highlights on the white turban fabric and natural luminous glow on her skin, with soft shadows under the chin and turban. Shot on professional DSLR, 85mm lens, f/2.0, ISO 200. Shallow depth of field with her face and upper body in sharp focus and the grass background melting into creamy bokeh. Documentary realism. Unretouched. Do not beautify or alter facial features. Do not smooth skin. Do not change any clothing or accessory. Reproduce the exact same person, outfit, turban, jewelry, and environment from the reference image with photographic precision. This is the opening frame of a sacred blessing ceremony — the Benção Sagrada do Cantuá.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, dataset-average anatomy, wide-angle distortion not in reference, lens compression not in reference, cropping that removes volume, depth flattening, beautification filters, skin smoothing, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, makeup enhancement, skin softening, face reshaping, eye enlargement, lip enhancement, overexposed, underexposed, blurry face, extra fingers, deformed hands, missing fingers, fused fingers, different clothing, different turban, different jewelry, different necklace, different person, different face, different angle, side view, front view, level angle, studio lighting, artificial lighting, flash photography, ring light, different background, indoor, different skin tone, younger face, older face, male, child",
+  "image_input": [
+    "http://tmpfiles.org/dl/29279971/img_0335.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "documentary realism, spiritual photography, sacred ceremony documentation",
+    "lighting": "natural golden hour sunlight from the right, warm and soft",
+    "camera_angle": "high angle bird's-eye, directly above subject looking down",
+    "depth_of_field": "shallow depth of field, f/2.0, creamy bokeh background",
+    "quality": "high detail, unretouched skin, visible pores, natural imperfections, photographic precision"
+  }
+}

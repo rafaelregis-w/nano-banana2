@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph taken by a professional photographer with a Canon EOS R5, 35mm lens, f/2.8, ISO 320. A real unedited photograph of a sacred Brazilian benzeção ceremony outdoors. Wide full-body shot of two women on natural grass in a tropical garden with real palm trees. A spiritual healer stands behind a seated woman performing a traditional herb blessing. The healer is the same woman from the reference — same face with visible pores on nose and cheeks, natural fine lines around eyes, real uneven skin tone, visible peach fuzz on face. Same colorful handmade crocheted rainbow poncho with V-shaped stripes in pink green blue yellow red purple white with crocheted tassels — the yarn texture clearly visible showing individual crochet stitches and slight imperfections in the handmade craft. Same white wrapped turban with golden braided band and turquoise gemstone. Same cowrie shell bracelet showing natural wear. She holds fresh green arruda and rosemary herbs on the seated woman's head. Her expression is warm, loving, spiritually focused — a gentle natural smile of someone doing sacred work she loves. Not posed, candid. The seated woman wears a simple white cotton dress with natural fabric wrinkles and creases. She sits cross-legged on the grass, barefoot, head gently bowed, eyes closed, at peace. Her arms rest on her knees, palms up. Her skin shows natural texture — visible arm hair, a small mole, real skin. Real golden hour sunlight coming from behind and to the right, creating natural warm backlighting through the palm fronds. Real crepuscular rays visible where sunlight breaks through gaps in the canopy — not perfect, slightly diffused, exactly as they appear in real outdoor photography. Natural lens flare from shooting into the sun. The grass is real and imperfect — some patches of dried grass, a few fallen leaves on the ground, natural earth showing through. The garden has depth — real trees at different distances, some sharp some blurred naturally. Natural shadows on the ground from the palm fronds. No digital effects, no particles, no glowing auras, no magical elements. The beauty and sacredness of this moment comes entirely from the human connection, the loving gesture, the natural golden light, and the serene tropical setting. This looks like it was shot for National Geographic or a documentary about traditional Brazilian healing practices. Slight natural chromatic aberration at the edges. Natural vignetting from the wide angle lens. The emotional power is in the REALITY of this sacred moment.",
+  "negative_prompt": "digital effects, particles, glowing aura, magical effects, sparkles, light orbs, supernatural glow, fantasy, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, AI look, skin smoothing, airbrushed, plastic skin, perfect skin, porcelain skin, studio lighting, artificial lighting, flash, ring light, indoor, posed, stock photo, commercial, advertising, oversaturated, HDR look, overprocessed, Instagram filter, sad expression, frowning, angry, grumpy, close-up, tight crop, headshot, cropped bodies, extra fingers, deformed hands, different clothing, different person, smoke, fog, incense",
+  "image_input": [
+    "http://tmpfiles.org/dl/29293819/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29293823/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, documentary realism, National Geographic, unedited photograph, candid sacred ceremony",
+    "lighting": "real golden hour backlighting, natural crepuscular rays through palms, no artificial effects",
+    "camera_angle": "eye-level, 3 meters distance, 35mm wide shot, full bodies, candid documentary",
+    "depth_of_field": "f/2.8, both figures sharp, natural background blur, slight chromatic aberration",
+    "quality": "raw unedited photograph, visible skin pores and imperfections, real fabric texture, natural grass, no digital effects whatsoever"
+  }
+}

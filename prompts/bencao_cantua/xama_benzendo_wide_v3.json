@@ -1,0 +1,21 @@
+{
+  "prompt": "Ultra-realistic wide full-body photograph of a sacred Brazilian blessing ceremony outdoors. Wide shot showing two women from head to feet on green grass in a tropical garden with palm trees. The shaman healer stands behind a seated woman performing a benzeção with fresh green herbs. The shaman is the same woman from the reference image — same face, same colorful crocheted rainbow poncho with V-stripes and tassels, same white turban with golden band and turquoise stone, cowrie bracelet. Her full poncho visible from shoulders to below hips. She presses fresh arruda herbs on the seated woman's head with one hand, other hand on the woman's crown. She has a warm loving smile, eyes half-closed, radiating love and sacred joy. The seated woman wears white, head bowed, eyes closed, peaceful smile, palms up on lap. Golden god rays pierce through palm canopy illuminating both figures. Golden particles float in the air. Subtle golden glow where herbs touch the head. Thin sage smoke spirals upward. 35mm lens, f/2.8. Camera 3 meters away. Documentary realism.",
+  "negative_prompt": "close-up, tight crop, headshot, cropped bodies, plastic skin, CGI, illustration, cartoon, anime, AI look, studio lighting, indoor, sad expression, frowning, angry, dark mood, cold lighting, extra fingers, deformed hands, different clothing, different person",
+  "image_input": [
+    "http://tmpfiles.org/dl/29290378/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29290383/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "ultra-realistic documentary, sacred ceremony, wide full-body shot",
+    "lighting": "golden god rays through palms, golden particles, sage smoke",
+    "camera_angle": "eye-level, 3 meters distance, 35mm wide shot, full bodies",
+    "depth_of_field": "f/2.8, both figures sharp, warm bokeh background",
+    "quality": "ultra-realistic, full-body, divine energy, loving atmosphere"
+  }
+}

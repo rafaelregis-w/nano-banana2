@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 28mm wide-angle lens, f/3.5, ISO 320. The very END of a sacred Brazilian benzeção ceremony — the blessing is now complete. Very wide full-body shot from approximately 5 meters distance showing the entire scene with lots of environment visible. Same tropical garden with tall palm trees at golden hour, same exact location as the beginning image. The spiritual healer Gislaine has just finished the blessing. She stands behind the seated woman. Her right hand holds the used herb bundle down at her side — the arruda and rosemary leaves now slightly wilted and bent from use. Her left hand rests gently on top of the seated woman's head in a final benediction. Gislaine has a warm gentle fulfilled smile, looking down with maternal love. She wears the same colorful crocheted rainbow poncho with V-shaped stripes in pink green blue yellow red purple white with crocheted tassels, same white turban with golden band and turquoise stone, same cowrie bracelet. The SAME RECEIVING WOMAN from the beginning: the same young Brazilian woman approximately 30 years old with straight medium-length dark brown hair parted in the middle falling just past her shoulders, light olive skin, slim build. She wears the same simple long white cotton dress with thin straps, barefoot. She sits cross-legged on the grass. Her head is slightly raised, eyes still closed, a deep peaceful grateful smile on her face. Her hands are pressed together in namaste at her heart center. A few small green leaf fragments have fallen on her shoulders and on the grass around her from the blessing. Real golden hour sunlight from behind through palm trees. Natural warm backlighting. Real grass with scattered fallen herb leaves. No digital effects, no particles, no auras. Raw documentary realism.",
+  "negative_prompt": "digital effects, particles, glowing aura, magical effects, sparkles, CGI, illustration, cartoon, anime, beauty filter, AI look, skin smoothing, plastic skin, studio lighting, artificial lighting, flash, indoor, close-up, tight crop, headshot, cropped bodies, extra fingers, deformed hands, different clothing, different poncho, blonde hair, curly hair, red hair, short hair, different woman receiving, old woman receiving, child, smoke, fog, herbs raised high",
+  "image_input": [
+    "http://tmpfiles.org/dl/29294776/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29294780/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, documentary realism, very wide environmental shot, emotional completion",
+    "lighting": "real golden hour backlighting, natural warm light",
+    "camera_angle": "eye-level, 5 meters distance, 28mm wide-angle, full bodies with lots of environment",
+    "depth_of_field": "f/3.5, both figures sharp, natural background blur",
+    "quality": "raw photograph, ultra-realistic, no digital effects, emotionally powerful"
+  }
+}

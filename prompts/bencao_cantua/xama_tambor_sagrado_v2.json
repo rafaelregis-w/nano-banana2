@@ -1,0 +1,21 @@
+{
+  "prompt": "A breathtakingly enchanting and deeply spiritual hyper-realistic photograph of a beautiful radiant shaman queen playing a large traditional shamanic frame drum in a magical tropical garden at golden hour. She is the same exact woman from the reference images — same face, same warm radiant skin. She wears the same exact colorful handmade crocheted poncho with vivid rainbow V-shaped horizontal stripes in pink, hot pink, emerald green, blue, sky blue, golden yellow, red, crimson, purple, violet, and white, with colorful multicolored crocheted tassels along the bottom edge. The crocheted open-stitch texture is clearly visible. Same white wrapped turban with the golden braided band and turquoise-green oval gemstone at the forehead. She holds a large round traditional shamanic frame drum with natural animal skin membrane in her left hand at chest level, striking it powerfully with a wooden beater in her right hand at the exact moment of impact. Her eyes are closed in deep spiritual trance, her face radiating pure ecstasy, ancient power, and divine beauty — she is channeling the heartbeat of Mother Earth through the drum. CRITICAL ENERGY EFFECTS: Massive dramatic god rays of thick warm golden sunlight burst through the tropical palm canopy from behind and above her, creating a spectacular divine backlight that makes her entire silhouette glow with sacred fire. From the drum surface, visible concentric golden shockwaves of sound energy ripple outward through the air in expanding circles — the sacred vibration made visible as rings of shimmering golden light. Hundreds of luminous golden particles, sparks, and sacred dust fill the air around her, dancing and swirling with the rhythm of the drum beat. Rainbow prismatic light refractions scatter through the air from the golden particles. The colorful crocheted poncho catches the golden backlight, making each color stripe glow vibrantly. Her white turban radiates with an ethereal golden halo. The tropical garden with lush palm fronds frames her like a natural cathedral. Strong lens flare from the sun behind the palms adds cinematic divine quality. The entire scene pulsates with visible sacred energy — you can almost hear the drum and feel the vibration through the image. Shot on professional DSLR, 85mm lens, f/1.8, ISO 160. Slightly low angle looking up, majestic perspective. Shallow depth of field, face and drum razor-sharp, background dissolving into magical golden bokeh. This is the raw spiritual power of the Benção Sagrada do Cantuá — the shaman's drum awakening the ancient spirits.",
+  "negative_prompt": "anatomy normalization, body proportion averaging, plastic skin, airbrushed texture, stylized realism, CGI, 3d render, illustration, painterly, cartoon, anime, beauty filter, overexposed, blurry face, extra fingers, deformed hands, missing fingers, different clothing, different poncho, plain poncho, solid color, different turban, different person, different face, studio lighting, artificial lighting, flash photography, indoor, male, child, dark mood, cold lighting, blue tones, harsh shadows, unflattering angle, no energy effects, flat lighting, dull atmosphere, no light rays, no particles",
+  "image_input": [
+    "http://tmpfiles.org/dl/29284717/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29281067/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "enchanting spiritual photography, sacred shamanic ceremony, spectacular divine golden light, visible sound vibration shockwaves, breathtaking cinematic beauty",
+    "lighting": "massive god rays bursting through palm canopy, golden backlight, sacred golden particles filling the air, prismatic rainbow refractions, divine fire glow",
+    "camera_angle": "slightly low angle looking up, majestic cinematic perspective",
+    "depth_of_field": "shallow depth of field, f/1.8, razor-sharp subject, magical golden bokeh",
+    "quality": "ultra high detail, luminous radiant skin, spectacular golden energy, tack-sharp, enchanting, cinematic, breathtaking"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 24mm wide-angle lens, f/4.0, ISO 250. The END of a sacred Brazilian benzeção ceremony — the blessing is complete. Very wide environmental shot from approximately 7 meters distance — both women appear at full body occupying about 40 percent of the frame height, surrounded by abundant tropical garden environment. Same exact location and framing as the beginning. Gislaine stands behind the seated woman. Her right hand holds the used wilted herb bundle down at her side, her left hand rests gently on the woman's head in final benediction. Gislaine has a warm loving fulfilled smile looking down with maternal love. She wears the same colorful crocheted rainbow poncho with V-shaped stripes in pink green blue yellow red purple white with crocheted tassels, same white turban with golden band and turquoise stone, cowrie bracelet. The SAME RECEIVING WOMAN: same young Brazilian woman about 30 years old, straight medium-length dark brown hair parted in the middle past her shoulders, light olive skin, slim build, same simple long white cotton dress with thin straps, barefoot. She sits cross-legged, head slightly raised, eyes closed, deep peaceful grateful smile, hands pressed together in namaste at heart center. Small green leaf fragments scattered on her shoulders and on the grass around her. Wide view shows: green grass foreground with fallen herb leaves, the two women in the middle ground, tall palm trees and dense tropical plants filling background, golden hour sunlight filtering through canopy from behind. Real natural light, real grass, natural details. No effects. Raw documentary realism.",
+  "negative_prompt": "close-up, medium shot, tight crop, headshot, cropped bodies, figures filling entire frame, digital effects, particles, glowing, sparkles, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, different woman receiving, smoke, fog, extra fingers, deformed hands, herbs raised high, sad expression, angry",
+  "image_input": [
+    "http://tmpfiles.org/dl/29295189/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29295191/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, very wide environmental shot, cinematic framing for video",
+    "lighting": "real golden hour backlighting through palms",
+    "camera_angle": "eye-level, 7 meters distance, 24mm wide-angle, cinematic wide shot",
+    "depth_of_field": "f/4.0, both figures sharp, environment visible",
+    "quality": "ultra-realistic, cinematic framing, video-ready composition, emotionally powerful"
+  }
+}

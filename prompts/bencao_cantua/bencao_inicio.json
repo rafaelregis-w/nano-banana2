@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 35mm lens, f/2.8, ISO 320. The very BEGINNING of a sacred Brazilian benzeção ceremony. Wide full-body shot in a tropical garden with palm trees at golden hour. The spiritual healer Gislaine stands facing a seated woman, holding a thick fresh bundle of arruda and rosemary herbs HIGH in her right hand, raised above the seated woman's head, about to begin the blessing. She has not touched the person yet — the herbs are held up toward the sky as she whispers an opening prayer with eyes closed, lips slightly parted, channeling intention and asking permission from the divine to begin. Her left hand is placed over her own heart. Her expression shows deep spiritual preparation — reverent, focused, sacred. She wears the same colorful crocheted rainbow poncho with V-shaped stripes and tassels from the reference, same white turban with golden band and turquoise stone, same cowrie bracelet. The seated woman waits with anticipation — sitting cross-legged on the grass, wearing a simple white dress, barefoot, eyes closed, hands on her knees palms up, her posture straight and ready to receive. There is a small gap of space between them — the blessing has not started yet. Real golden hour sunlight coming from behind through the palm trees creating natural warm backlighting. Natural crepuscular rays through the canopy. Real imperfect grass with some dry patches and fallen leaves. No digital effects, no particles, no glowing auras. Raw documentary realism. The sacred anticipation before the first touch.",
+  "negative_prompt": "digital effects, particles, glowing aura, magical effects, sparkles, CGI, 3d render, illustration, cartoon, anime, beauty filter, AI look, skin smoothing, airbrushed, plastic skin, studio lighting, artificial lighting, flash, indoor, close-up, tight crop, headshot, cropped bodies, extra fingers, deformed hands, different clothing, different person, smoke, fog, herbs touching person, herbs on head already, sad expression, angry",
+  "image_input": [
+    "http://tmpfiles.org/dl/29294098/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29294103/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "3:4"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, documentary realism, candid sacred ceremony, beginning of ritual",
+    "lighting": "real golden hour backlighting, natural crepuscular rays, no artificial effects",
+    "camera_angle": "eye-level, 3 meters distance, 35mm wide shot, full bodies",
+    "depth_of_field": "f/2.8, both figures sharp, natural background blur",
+    "quality": "raw photograph, visible skin pores, real fabric texture, no digital effects"
+  }
+}

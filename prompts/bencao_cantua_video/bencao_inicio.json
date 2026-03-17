@@ -1,0 +1,21 @@
+{
+  "prompt": "Photojournalistic documentary photograph, Canon EOS R5, 24mm wide-angle lens, f/4.0, ISO 250. The BEGINNING of a sacred Brazilian benzeção ceremony. Very wide environmental shot from approximately 7 meters distance — both women appear at full body occupying about 40 percent of the frame height, surrounded by abundant tropical garden environment. The healer Gislaine stands behind a seated woman in a lush clearing among tall palm trees and tropical plants at golden hour. Gislaine holds a thick fresh bundle of arruda and rosemary herbs raised high above the seated woman's head with her right hand, left hand on her own heart, eyes closed in opening prayer. She wears the same colorful crocheted rainbow poncho with V-shaped stripes in pink green blue yellow red purple white with crocheted tassels, same white turban with golden band and turquoise stone, cowrie bracelet. The RECEIVING WOMAN: young Brazilian woman about 30 years old, straight medium-length dark brown hair parted in the middle past her shoulders, light olive skin, slim build, simple long white cotton dress with thin straps, barefoot on grass, sitting cross-legged, eyes closed, hands on knees palms up. The herbs have not touched her yet. Wide view shows: green grass foreground, the two women in the middle ground, tall palm trees and dense tropical plants filling the background creating a natural cathedral, golden hour sunlight filtering through the canopy from behind. Real natural light, real imperfect grass, fallen leaves on ground. No effects. Raw documentary realism.",
+  "negative_prompt": "close-up, medium shot, tight crop, headshot, cropped bodies, figures filling entire frame, digital effects, particles, glowing, sparkles, CGI, illustration, cartoon, anime, AI look, skin smoothing, plastic skin, studio lighting, flash, indoor, blonde hair, curly hair, different woman, smoke, fog, extra fingers, deformed hands",
+  "image_input": [
+    "http://tmpfiles.org/dl/29295189/img-20240824-wa0021.jpg",
+    "http://tmpfiles.org/dl/29295191/img_0331.jpeg.jpg"
+  ],
+  "api_parameters": {
+    "resolution": "2K",
+    "output_format": "png",
+    "aspect_ratio": "16:9"
+  },
+  "settings": {
+    "resolution": "2K",
+    "style": "raw photojournalism, very wide environmental shot, cinematic framing for video",
+    "lighting": "real golden hour backlighting through palms",
+    "camera_angle": "eye-level, 7 meters distance, 24mm wide-angle, cinematic wide shot",
+    "depth_of_field": "f/4.0, both figures sharp, environment visible",
+    "quality": "ultra-realistic, cinematic framing, video-ready composition"
+  }
+}
